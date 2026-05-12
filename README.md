@@ -8,6 +8,7 @@
 
 ## 安装方式
 打开终端
+
 npx skills add https://github.com/tiange1882/wechat-editor-publisher
 
 
