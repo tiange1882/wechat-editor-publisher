@@ -6,6 +6,11 @@
 
 这个流程不依赖 `md2wechat_key`，也不需要购买 md2wechat 的付费 API。它直接调用微信官方接口。
 
+## 安装方式
+打开终端
+npx skills add https://github.com/tiange1882/wechat-editor-publisher
+
+
 ## 触发方式
 
 以后可以直接用这些说法触发这个流程：
